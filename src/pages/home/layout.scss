@@ -1,0 +1,221 @@
+@charset 'utf-8';
+/****** common CSS***********/
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.overflow{
+	overflow: hidden;
+}
+*{
+	box-sizing: border-box;
+}
+/**************************/
+html,body{
+	width: 100%;
+	height: 100%;
+}
+#app{
+	width: 100%;
+	height: 100%;
+}
+.textcenter {
+  text-align: center;
+}
+.bg {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  position: relative;
+  background: url(../../../static/img/home/bg_jpg.jpg) center no-repeat;
+  background-size: cover;
+}
+.bg .header_top {
+  width: 100%;
+  height: 85px;
+  padding: 0 45px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.bg .header_top .in_top {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+.bg .header_top .in_top .top_div {
+  height: 100%;
+}
+.bg .header_top .in_top .top_left {
+  text-align: center;
+  line-height: 85px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: normal;
+}
+.bg .header_top .in_top .right_div {
+  width: 100px;
+  height: 100%;
+  padding: 0;
+  line-height: 85px;
+  color: #dadada;
+  font-size: 15px;
+  font-weight: normal;
+  text-indent: 28px;
+  position: relative;
+}
+.bg .header_top .in_top .right_div .icons {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  display: block;
+  top: 50%;
+  margin-top: -10px;
+  left: 0;
+  cursor: pointer;
+}
+.bg .header_top .in_top .right_div span {
+  cursor: pointer;
+}
+.bg .header_top .in_top .right_div .person_icons {
+  background: url(../../../static/img/home/person_icon.png) center no-repeat;
+  background-size: 100% 100%;
+}
+.bg .header_top .in_top .right_div .write_icons {
+  background: url(../../../static/img/home/write_icon.png) center no-repeat;
+  background-size: 100% 100%;
+}
+.bg .header_top .in_top .right_div:nth-child(2) {
+  margin-right: 34px;
+}
+.bg .contains {
+  width: 72%;
+  position: relative;
+  height: 28.88888889%;
+  margin: 22% auto 0;
+}
+.bg .contains ul {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.bg .contains ul li {
+  width: 18.78612717%;
+  height: 100%;
+  background: #0064fa;
+  border-radius: 5px;
+  box-shadow: 0 0 20px #333333;
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+}
+.bg .contains ul li:hover {
+  background: #002adf;
+}
+.bg .contains ul li:hover .triangle:nth-child(n) {
+  visibility: visible;
+}
+.bg .contains ul li img {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -32px;
+  margin-top: -32px;
+  margin-top: -42px;
+}
+.bg .contains ul li p {
+  color: #fff;
+  font-size: 27px;
+  font-weight: normal;
+  margin-top: 78%;
+}
+.bg .triangle p {
+  color: #fff;
+  z-index: 1;
+  font-weight: bold;
+  font-size: 18px;
+}
+.triangle {
+  /* display: none; */
+  position: absolute;
+  /*width: 100%;*/
+  height: 100%;
+  top: -106%;
+  /*visibility: hidden;*/
+  background: url(../../../static/img/home/bg-triangle.png) no-repeat;
+  background-size: cover;
+  /*background: #fff;*/
+  padding: 0 15%;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  /*垂直居中*/
+  justify-content: center;
+  /*水平居中*/
+}
+/* 白色覆盖*/
+.triangle1:after {
+  left: 9%;
+  position: absolute;
+  content: "";
+  /*减少两像素*/
+  bottom: -12px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #fff;
+}
+.triangle2:after {
+  left: 29%;
+  position: absolute;
+  content: "";
+  /*减少两像素*/
+  bottom: -12px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #fff;
+}
+.triangle3:after {
+  left: 49%;
+  position: absolute;
+  content: "";
+  /*减少两像素*/
+  bottom: -12px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #fff;
+}
+.triangle4:after {
+  left: 69%;
+  position: absolute;
+  content: "";
+  /*减少两像素*/
+  bottom: -12px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #fff;
+}
+.triangle5:after {
+  left: 89%;
+  position: absolute;
+  content: "";
+  /*减少两像素*/
+  bottom: -12px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #fff;
+}
+// 技术支撑
+.bg>.foot{
+	position: fixed;
+	bottom:15px;
+	left:50%;
+	margin-left: -105px;
+	}
+	.bg>.foot p{
+	color:#fff;
+	font-size:14px;
+	}

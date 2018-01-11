@@ -1,0 +1,34 @@
+[
+    {
+    "displayName": "每天",
+    "displaySeq": 1,
+    "id": 20030215,
+    "propertyDomain": {
+    "id": 20015495
+    }
+    },
+    {
+    "displayName": "每周",
+    "displaySeq": 2,
+    "id": 20030216,
+    "propertyDomain": {
+    "id": 20015495
+    }
+    },
+    {
+    "displayName": "每月",
+    "displaySeq": 3,
+    "id": 20030217,
+    "propertyDomain": {
+    "id": 20015495
+    }
+    },
+    {
+        "displayName": "法定节假日",
+        "displaySeq": 4,
+        "id": 20030218,
+        "propertyDomain": {
+            "id": 20015495
+        }
+    }
+]

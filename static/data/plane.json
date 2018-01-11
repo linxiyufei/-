@@ -1,0 +1,182 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.882731",
+                    "28.973008"
+                ],
+                "type": "Ponit"
+            },
+            "properties": {
+                "person": {
+                    "id": 3
+                },
+                "orgId": 24158,
+                "id": 17,
+                "longitude": "118.882731",
+                "lat": 28.973008,
+                "lon": 118.882731,
+                "camera": {
+                    "id": 127,
+                    "isHDStr": ""
+                },
+                "earlyWarningLevel": {
+                    "id": 20029786
+                },
+                "earlyWarningType": {
+                    "id": 20029788
+                },
+                "earlyWarningPlace": "远景城",
+                "videosrc": "Alarm17.jpg",
+                "orginternalCode": "1.1.5.5.",
+                "latitude": "28.973008",
+                "earlyWarningDate": "2017-12-16T07:24:12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.879924",
+                    "28.974158"
+                ],
+                "type": "Ponit"
+            },
+            "properties": {
+                "person": {
+                    "id": 3
+                },
+                "orgId": 24158,
+                "id": 19,
+                "longitude": "118.879924",
+                "lat": 28.974158,
+                "lon": 118.879924,
+                "camera": {
+                    "id": 125,
+                    "isHDStr": ""
+                },
+                "earlyWarningLevel": {
+                    "id": 20029786
+                },
+                "earlyWarningType": {
+                    "id": 20029792
+                },
+                "earlyWarningPlace": "衢州市电大",
+                "videosrc": "Alarm19.jpg",
+                "orginternalCode": "1.1.5.5.",
+                "latitude": "28.974158",
+                "earlyWarningDate": "2017-12-17T11:10:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.880278",
+                    "28.975706"
+                ],
+                "type": "Ponit"
+            },
+            "properties": {
+                "person": {
+                    "id": 3
+                },
+                "orgId": 24158,
+                "id": 7,
+                "longitude": "118.880278",
+                "lat": 28.975706,
+                "lon": 118.880278,
+                "camera": {
+                    "id": 123,
+                    "isHDStr": ""
+                },
+                "earlyWarningLevel": {
+                    "id": 20029786
+                },
+                "earlyWarningType": {
+                    "id": 20029788
+                },
+                "earlyWarningPlace": "金桥翰林院",
+                "videosrc": "Alarm07.jpg",
+                "orginternalCode": "1.1.5.5.",
+                "latitude": "28.975706",
+                "earlyWarningDate": "2017-12-17T13:20:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.879084",
+                    "28.97385"
+                ],
+                "type": "Ponit"
+            },
+            "properties": {
+                "person": {
+                    "id": 3
+                },
+                "orgId": 24158,
+                "id": 15,
+                "longitude": "118.879084",
+                "lat": 28.97385,
+                "lon": 118.879084,
+                "camera": {
+                    "id": 40,
+                    "isHDStr": ""
+                },
+                "earlyWarningLevel": {
+                    "id": 20029785
+                },
+                "earlyWarningType": {
+                    "id": 20029791
+                },
+                "earlyWarningPlace": "中国农业银行（柯城支行）",
+                "videosrc": "Alarm15.jpg",
+                "orginternalCode": "1.1.5.5.",
+                "latitude": "28.97385",
+                "earlyWarningDate": "2017-12-17T19:30:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.880278",
+                    "28.975706"
+                ],
+                "type": "Ponit"
+            },
+            "properties": {
+                "person": {
+                    "id": 3
+                },
+                "orgId": 24158,
+                "id": 8,
+                "keyPerson": "赵小燕\n",
+                "longitude": "118.880278",
+                "lat": 28.975706,
+                "lon": 118.880278,
+                "camera": {
+                    "id": 21,
+                    "isHDStr": ""
+                },
+                "earlyWarningLevel": {
+                    "id": 20029785
+                },
+                "earlyWarningType": {
+                    "id": 20029788
+                },
+                "keyCar": "浙H1D45F7\n",
+                "earlyWarningPlace": "金桥翰林院",
+                "videosrc": "Alarm08.jpg",
+                "orginternalCode": "1.1.5.5.",
+                "latitude": "28.975706",
+                "earlyWarningDate": "2017-12-18T13:19:59"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

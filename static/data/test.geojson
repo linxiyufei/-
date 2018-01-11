@@ -1,0 +1,544 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86961",
+                    "28.97073"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 126,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "12398柯城卫生局左大门",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33480204601310017608",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-26T23:01:01",
+                "centerLat": "28.97073",
+                "centerLon": "118.86961",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-17T13:59:59",
+                "manageMobile": "13666666666",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm18.jpg",
+                "bind": 0,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86903",
+                    "28.97090"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 127,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "11234太真医院后门",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33680204007310017608",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-21T13:01:01",
+                "centerLat": "28.97090",
+                "centerLon": "118.86903",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-13T13:01:01",
+                "manageMobile": "13666666666",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm17.jpg",
+                "bind": 0,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.87056",
+                    "28.97047"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 125,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "13456柯城国土局右大门",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33280204003310017608",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-18T01:59:01",
+                "centerLat": "28.97047",
+                "centerLon": "118.87056",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-26T13:01:59",
+                "manageMobile": "13666666666",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm19.jpg",
+                "bind": 1,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86916",
+                    "28.97266"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 123,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "10743石梁镇路口2",
+                "isHD": 0,
+                "userName": "11",
+                "pnumber": "33080224001310114817",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-13T16:21:00",
+                "centerLat": "28.97266",
+                "centerLon": "118.86916",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-13T16:21:00",
+                "manageMobile": "11111111111",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm07.jpg",
+                "address": "啊啊啊啊啊",
+                "manageUser": "啊啊啊啊",
+                "bind": 1,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86867",
+                    "28.97275"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 122,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "10743石梁镇路口4",
+                "isHD": 0,
+                "userName": "11",
+                "pnumber": "33080234001312014817",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-13T16:18:49",
+                "centerLat": "28.97275",
+                "centerLon": "118.86867",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-13T16:18:49",
+                "manageMobile": "11111111111",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm06.jpg",
+                "address": "萨达啊",
+                "manageUser": "萨达",
+                "bind": 1,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86991",
+                    "28.97309"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 121,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "10743石梁镇路口5",
+                "isHD": 0,
+                "userName": "11",
+                "pnumber": "33080244001313014817",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-13T16:15:35",
+                "centerLat": "28.97309",
+                "centerLon": "118.86991",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-13T16:18:10",
+                "manageMobile": "12212333333",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm03.jpg",
+                "address": "啊实打实少啊",
+                "manageUser": "萨达是",
+                "bind": 1,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86729",
+                    "28.97103"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 124,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "12301衢州广播电视大楼",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33080204041310017608",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-11T23:01:01",
+                "centerLat": "28.97103",
+                "centerLon": "118.86729",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-26T13:01:01",
+                "manageMobile": "13666666666",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm20.jpg",
+                "bind": 1,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86931",
+                    "28.97337"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 42,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10736白云北大道第三医院路段1",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "330802030000172604",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-16T11:30:33",
+                "centerLat": "28.97337",
+                "centerLon": "118.86931",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-16T11:30:33",
+                "manageMobile": "11111111111",
+                "createUser": "czy",
+                "pictureUrl": "Alarm02.jpg",
+                "manageUser": "1",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86841",
+                    "28.97105"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 41,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10199月亮湾公园正门球",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33080204001310017608",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-13T17:38:54",
+                "centerLat": "28.97105",
+                "centerLon": "118.86841",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-16T16:24:34",
+                "manageMobile": "11111111111",
+                "createUser": "czy",
+                "pictureUrl": "Alarm16.jpg",
+                "manageUser": "1",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86796",
+                    "28.97137"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 40,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10731九华北大道-高速立交桥1",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "330802030000030404",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-13T17:35:36",
+                "centerLat": "28.97137",
+                "centerLon": "118.86796",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-13T17:35:36",
+                "manageMobile": "11111111111",
+                "createUser": "czy",
+                "pictureUrl": "Alarm15.jpg",
+                "manageUser": "1",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.87152",
+                    "28.97272"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 30,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10739白云北大道第三医院路段4",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33080204001310014817",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-12T11:33:51",
+                "centerLat": "28.97272",
+                "centerLon": "118.87152",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-12T11:33:51",
+                "manageMobile": "13577777777",
+                "createUser": "czy",
+                "pictureUrl": "Alarm05.jpg",
+                "manageUser": "k",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86901",
+                    "28.97234"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 29,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10199 月亮湾公园门口球",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33080204001310015438",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-12T11:03:11",
+                "centerLat": "28.97234",
+                "centerLon": "118.86901",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-12T11:03:11",
+                "manageMobile": "13222222222",
+                "createUser": "czy",
+                "pictureUrl": "Alarm11.jpg",
+                "manageUser": "2",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.86839",
+                    "28.97251"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 28,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10186西区公园广场入口1",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "330802030000048504",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-12T11:02:40",
+                "centerLat": "28.97251",
+                "centerLon": "118.86839",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-12T11:02:40",
+                "manageMobile": "13455555555",
+                "createUser": "czy",
+                "pictureUrl": "Alarm10.jpg",
+                "manageUser": "5",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.87116",
+                    "28.97139"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "11",
+                "id": 27,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10736白云北大道第三医院路段1",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33080204001310014832",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-12T10:54:48",
+                "centerLat": "28.97139",
+                "centerLon": "118.87116",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-12T10:54:48",
+                "manageMobile": "13677777777",
+                "createUser": "czy",
+                "pictureUrl": "Alarm14.jpg",
+                "manageUser": "7",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "118.87056",
+                    "28.97292"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "org": {
+                    "orgName": "浙江省->衢州市->柯城区"
+                },
+                "password": "1",
+                "id": 26,
+                "orgId": 24158,
+                "createUserName": "czy",
+                "name": "10737白云北大道第三医院路段2",
+                "isHD": 1,
+                "userName": "11",
+                "pnumber": "33080204001310011463",
+                "createDeptName": "柯城区",
+                "createDate": "2017-10-12T10:52:30",
+                "centerLat": "28.97292",
+                "centerLon": "118.87056",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-10-12T10:52:30",
+                "manageMobile": "12344444444",
+                "createUser": "czy",
+                "pictureUrl": "Alarm04.jpg",
+                "manageUser": "4",
+                "bind": 1,
+                "updateUser": "czy"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

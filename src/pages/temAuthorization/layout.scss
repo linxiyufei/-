@@ -1,0 +1,156 @@
+@charset 'utf-8';
+/* 
+	编写你的代码 
+	@author: zwl
+	@date: 2017-12-12
+*/
+
+.temAuthorization-app {
+	position: relative;
+	width: 100%;
+	height: 100%;
+
+	#map-box {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+.map-point-info-mod {
+	position: absolute;
+	width: 280px;
+	height: 260px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	margin:  0 auto;
+	border-radius: 2px;
+	background: rgba(0, 0, 0, .7);
+
+	header {
+		color: #fff;
+		line-height: 36px;
+		font-size: 14px;
+		padding: 0 15px;
+		border-bottom: 1px solid #6f6f70;
+	}
+	&:after {
+		// content: '';
+		// display: block;
+		// margin: 0 auto;
+		// width: 0;
+		// height: 0;
+		// border: 10px solid rgba(0, 0, 0, .86);
+		// border-top-color: transparent;
+		// border-left-color: transparent;
+		// transform: rotate(45deg) translate(-5px, -5px);
+	}
+
+	footer {
+		height: 30px;
+		text-align: center;
+
+		button {
+			margin: 0 5px;
+			width: 82px;
+			height: 24px;
+			color: #fff;
+			border-radius: 24px;
+			border: none;
+			outline: none;
+
+			&.green {
+				background-color: #2ed47d
+			}
+			&.red {
+				background-color: #db2b4d
+			}
+		}
+	}
+}
+.map-point-info-mod {
+	transform: translate(0, calc( 50% - 15px));
+
+}
+.main-body {
+	height: 190px;
+	overflow: auto;
+
+	dl {
+		font-size: 0;
+		padding: 7px 15px;
+		box-sizing: border-box;
+	}
+	dd,
+	dt {
+		color: #fff;
+		font-size: 12px;
+		vertical-align: top;
+		display: inline-block;
+	}
+
+	dt {
+		color: #c7c7c7;
+		width: 30%;
+	}
+	dd {
+		width: 70%;
+	}
+}
+
+.pending-application-list-mod {
+	width: 236px;
+	padding-left: 10px;
+	height: 500px;
+	display: flex;
+	border-radius: 0;
+	flex-direction: column;
+	transform: translate(0);
+	position: absolute;
+	color: #fff;
+	border-radius: 2px;
+	background: rgba(0, 0, 0, .7);
+	right: 0;
+	top: 0;
+
+	&:after {
+		display: none;
+	}
+
+	header {
+		line-height: 42px;
+	}
+
+	.pending-application-list {
+
+		& > div {
+			padding: 5px 0;
+            border-bottom: 1px solid #6f6f70;
+			&:hover {
+				background: rgba(255, 255, 255, .08);
+			}
+		}
+
+		flex: 1;
+		margin: 5px 0;
+	}
+
+	button,
+	dl {
+		padding: 2px 15px;
+	}
+
+	button {
+		border: none;
+		outline: none;
+		background: transparent;
+		color: #3e86fa;
+		font-size: 12px;
+		cursor: pointer;
+
+		&:active {
+			color: #fff;
+		}
+	}
+}

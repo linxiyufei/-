@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    118.86961,
+                    28.97073
+                ],
+                "type": "Ponit"
+            },
+            "properties": {
+                "password": "1",
+                "id": 126,
+                "orgId": 24158,
+                "createUserName": "hwj",
+                "name": "12398柯城卫生局左大门",
+                "isHD": 1,
+                "userName": "11",
+                "longitude": "118.86961",
+                "pnumber": "33480204601310017608",
+                "createDeptName": "柯城区",
+                "createDate": "2017-12-26T23:01:01",
+                "centerLat": "28.97073",
+                "centerLon": "118.86961",
+                "orginternalcode": "1.1.5.5.",
+                "isDeleted": 0,
+                "updateDate": "2017-12-17T13:59:59",
+                "manageMobile": "13666666666",
+                "createUser": "hwj",
+                "pictureUrl": "Alarm18.jpg",
+                "latitude": "28.97073",
+                "bind": 0,
+                "updateUser": "hwj"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

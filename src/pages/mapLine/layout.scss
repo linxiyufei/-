@@ -1,0 +1,190 @@
+@charset 'utf-8';
+/* 
+	编写你的代码 
+	@author: zwl
+	@date: 2017-12-12
+*/
+section{
+	width: 100%;
+	height: 100%;
+	background: #F5F7FA;
+	position: relative;
+}
+.container{
+	position: absolute;
+	top: 20px; 
+	left: 30px;
+	right: 30px;
+	bottom: 120px;
+	.title{
+		position: relative;
+		height: 50px;
+		width: 100%;
+		background: #FFF;
+		margin-bottom: 8px;
+		button{
+			box-sizing: border-box;
+			height: 30px;
+			width: 65px;
+			border: 1px solid #4786FF;
+			color: #4786FF;
+			background: #FFF;
+			position: absolute;
+			top: 10px;
+			right: 20px;
+			border-radius: 2px;
+		}
+	}
+	.content{
+		position: absolute;
+		top: 58px;
+		right: 0; 
+		left: 0;
+		bottom: 0;
+		.leftAside{
+			width: 60%;
+			height: 100%;
+			margin-right: .5%;
+			box-sizing: border-box;
+			float: left;
+			.topAside{
+				width: 100%;
+				height: 50%;
+				margin-bottom: 8px; 
+				.chart1, .chart2{
+					width: 49.5%;
+					height: 100%;
+					background: #FFF;
+					float: left;
+					position: relative;
+					.chart-title{
+						font-size: 14px;
+						color: #3e86fa;
+						margin: 18px 0 0 18px;
+						font-weight: bold;
+					}
+				}
+				.chart1{
+					margin-right: 1%;
+				}
+				.chart1-draw, .chart2-draw{
+					position: absolute;
+					top: 40px;
+					left: 0;
+					right: 0;
+					bottom: 0;
+					overflow: auto;
+					.bar1, .bar2{
+						width: 100%;
+						height: 50%;
+						padding-left: 30px;
+						position: relative;
+						p.title:first-child{
+							color: #666;
+							font-size: 12px;
+							box-sizing: border-box;
+							margin-bottom: 0;
+						}
+						p.title{
+							color: #666;
+							font-size: 12px;
+							box-sizing: border-box;
+							margin-bottom: 0;
+						}
+						p.red{
+							font-size: 16px; 
+							color: #ff577f;
+							position: absolute;
+							top: 20%;
+						}
+						p.yellow{
+							font-size: 16px; 
+							color: #ffb259;
+							position: absolute;
+							top: 20%;
+						}
+						span.bg{
+							display: inline-block;
+							height: 5px;
+							width: 90%;
+							border-radius: 3px;
+							background: #ebebeb;
+							position: absolute;
+							top: 50%;
+						}
+						span.red{
+							display: inline-block;
+							height: 5px;
+							width: 50%;
+							border-radius: 3px;
+							position: absolute;
+							top: 50%;
+							background: #ff577f;
+						}
+						span.yellow{
+							display: inline-block;
+							height: 5px;
+							width: 30%;
+							border-radius: 3px;
+							position: absolute;
+							top: 50%;
+							background: #ffb259;
+						}
+						p.content{
+							font-size: 12px;
+							position: absolute;
+							top: 65%;
+							padding-left: 30px;
+							span{
+								padding-left: 14px;
+								font-size: 12px;
+							}
+							span.red{
+								display: inline-block;
+								height: 12px;
+								color: #ff577f;
+								background: url("../../../static/img/mapLine/red.png") no-repeat;
+								background-position: 0 3px;
+							}
+							span.yellow{
+								display: inline-block;
+								height: 12px;
+								color: #ffb259;
+								background: url("../../../static/img/mapLine/yellow.png") no-repeat;
+								background-position: 0 3px;
+							}
+						}
+					}
+				}
+			}
+			.bottomAside{
+				width: 100%;
+				height: 50%;
+				background: #FFF;
+				position: relative;
+				.chart-title{
+					font-size: 14px;
+					color: #3e86fa;
+					position: relative;
+					top: 18px;
+					left: 18px;
+					font-weight: bold;
+				}
+				.chart3-draw{
+					position: absolute;
+					top: 40px;
+					left: 0;
+					right: 0;
+					bottom: 0;
+				}
+			}
+		}
+		.rightAside{
+			width: 39.5%;
+			height: 100%;
+			box-sizing: border-box;
+			float: left;
+			background: #FFF;
+		}
+	}
+}

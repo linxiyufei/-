@@ -1,0 +1,111 @@
+{
+    "page": 1,
+    "records": 8,
+    "rows": [
+        {
+            "id": 47,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "222",
+            "permissionSketch": "122",
+            "permissionType": 0,
+            "status": 0
+        },
+        {
+            "id": 46,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "hwj",
+            "permissionSketch": "jieieieieiei",
+            "permissionType": 1,
+            "status": 0
+        },
+        {
+            "id": 45,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "123",
+            "permissionSketch": "123",
+            "status": 0
+        },
+        {
+            "id": 44,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "hwj",
+            "permissionSketch": "jieieieieiei",
+            "permissionType": 1,
+            "status": 0
+        },
+        {
+            "id": 43,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "hwj",
+            "permissionSketch": "jieieieieiei",
+            "permissionType": 1,
+            "status": 0
+        },
+        {
+            "createDate": "2017-12-22 09:29:51",
+            "createUser": "hwj",
+            "id": 42,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "hwj",
+            "permissionSketch": "jieieieieiei",
+            "permissionType": 1,
+            "status": 0,
+            "updateDate": "2017-12-22 09:29:51",
+            "updateUser": "hwj"
+        },
+        {
+            "id": 41,
+            "num": 0,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionName": "hwj",
+            "permissionSketch": "jieieieieiei",
+            "permissionType": 1,
+            "status": 0
+        },
+        {
+            "auditIdea": "少时诵诗书",
+            "createDate": "2017-12-12 15:36:29",
+            "createUser": "hwj",
+            "id": 1,
+            "num": 3,
+            "organization": {
+                "id": 1,
+                "orgInternalCode": "1."
+            },
+            "permissionCode": "qwww",
+            "permissionName": "wwww",
+            "startTime": "2017-12-12T15:36:28",
+            "status": 0,
+            "updateDate": "2017-12-12 15:36:29",
+            "updateUser": "hwj"
+        }
+    ],
+    "total": 1
+}
